@@ -1,8 +1,5 @@
 # NFT-Minting-on-Polygon
-NFT Minting don on Polygon using hardhat 
+NFT Minting done on Polygon using hardhat 
 
 
-To get the code, please switch to 'master' 
-
-
-Made an error while pushing it...
+To see the code, switch to 'master' branch
