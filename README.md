@@ -2,4 +2,7 @@
 NFT Minting don on Polygon using hardhat 
 
 
-To see the code, switch to 'master' branch
+To get the code, please switch to 'master' 
+
+
+Made an error while pushing it...
