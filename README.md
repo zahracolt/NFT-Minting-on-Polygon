@@ -4,4 +4,4 @@ NFT Minting done on Polygon using hardhat
 
 Deploy Script
 
-npx hardhat run scripts/mint-script-mainnet.js --network matic
+1. npx hardhat run scripts/mint-script-mainnet.js --network matic
